@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;StudentDAO.java&apos; to &apos;Day05/src/emirim.persistence&apos;&#x0D;&#x0A;- Original project: &apos;Day05&apos;&#x0D;&#x0A;- Destination element: &apos;Day05/src/emirim.persistence&apos;&#x0D;&#x0A;- Original element: &apos;emirim.domain.StudentDAO.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;emirim.persistence" element1="/src&lt;emirim.domain{StudentDAO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1547166130679" units="1" version="1.0"/>
+</session>
