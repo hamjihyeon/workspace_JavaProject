@@ -7,6 +7,7 @@
 <fullyQualifiedTypeName name="emirim.persistence.VendingDAO"/>
 <fullyQualifiedTypeName name="emirim.domain.ProductVO"/>
 <fullyQualifiedTypeName name="emirim.domain.UserDTO"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="emirim.view.VendingMachineView"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
