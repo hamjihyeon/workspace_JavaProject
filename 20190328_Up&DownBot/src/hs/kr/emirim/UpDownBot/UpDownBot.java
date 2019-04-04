@@ -10,7 +10,7 @@ public class UpDownBot {
 		int end = 100;
 		Scanner scanner = new Scanner(System.in);
 		Random random = new Random();
-
+		
 		while (true) {
 			int guess = random.nextInt(end - start + 1) + start;
 			System.out.println(guess+"입니까? (1: 정답, 2: Up, 3: Down)");
