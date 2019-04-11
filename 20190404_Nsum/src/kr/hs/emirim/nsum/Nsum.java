@@ -11,6 +11,11 @@ public class Nsum {
 		String number = sc.nextLine();
 		// 각 자리수의 수를 더하자
 		int length = number.length();
+		nSum(number, length);
+
+	}
+
+	private static void nSum(String number, int length) {
 		int sum = 0;
 		for (int i = 0; i < length; i++) {
 			// 0~자릿수-1까지 반복하자
@@ -21,7 +26,6 @@ public class Nsum {
 		}
 		// 더한 값을 출력하자
 		System.out.println(sum);
-
 	}
 
 }
