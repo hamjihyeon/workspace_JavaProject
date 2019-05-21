@@ -25,6 +25,8 @@ public class GUITest5_ImageIcon {
 		//ImageIcon 크기 수정
 		ImageIcon smallPika = new ImageIcon(pika.getImage().getScaledInstance(100, 100, Image.SCALE_DEFAULT));
 		JButton imageButton = new JButton(smallPika);
+		imageButton.setRolloverIcon(kirby);		//마우스 올리면 
+		imageButton.setPressedIcon(pika);		//마우스 클릭하면
 		
 		
 		panel.add(imageLabel);
