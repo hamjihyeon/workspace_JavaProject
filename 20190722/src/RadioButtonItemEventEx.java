@@ -48,7 +48,6 @@ public class RadioButtonItemEventEx extends JFrame {
 
 	public static void main(String[] args) {
 		new RadioButtonItemEventEx();
-		;
 	}
 
 }
